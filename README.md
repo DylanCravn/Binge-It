@@ -1,1 +1,1 @@
-# Binge-It
+# BingeIt
